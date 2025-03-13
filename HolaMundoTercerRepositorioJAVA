@@ -1,1 +1,10 @@
+public class HolaMundo {
+    /*
+       Fecha: 13 de marzo de 2025
+       Autor: José Uriel Pedro Maldonado
+    */
 
+    public static void main(String[] args) {
+        System.out.println("Hola Mundo");
+    }
+}
